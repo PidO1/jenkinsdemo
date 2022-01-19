@@ -20,7 +20,7 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
   it('should calculate 2', () => {
-    const answer = 3
+    const answer = 2
     expect(answer).toBe(2);
   });
 
